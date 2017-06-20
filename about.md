@@ -2,14 +2,17 @@
 layout: page
 title: About
 permalink: /about/
+brandonAwesomeYouTubeId: 6rbPTQIdjmY?ecver=2
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is our site about movies... and related topics (some tv and games might find
+their way into this site). Hope you enjoy.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+### Brandon's Most Recent Consumed "Awesome" Media
+_King Arthur: Legend of the Sword_  
+Don't judge it before you watch it; this is an incredibly enjoyable film!  
+{% include youtubePlayer.html id=page.brandonAwesomeYouTubeId %}
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<br>
+
+### Alex's Most Recent Consumed "Awesome" Media
