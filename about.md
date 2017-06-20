@@ -18,7 +18,7 @@ Don't judge it before you watch it; this is an incredibly enjoyable film!
 
 ### Alex's Most Recently Consumed "Awesome" Media
 _Fire Emblem Echoes_  
-I freaking love Fire Emblem, and this game certainly didn't dissapoint. Just listen to that opening theme! The soundtrack and presentation alone make the game awesome, let alone the characters and gameplay.
+I freaking love Fire Emblem, and this game certainly didn't dissapoint. Just listen to that opening theme! The soundtrack and presentation alone make the game awesome, not to mention the great characters and gameplay.
 {% include youtubePlayer.html id=page.alexAwesomeYouTubeId %}
 
 <br>
