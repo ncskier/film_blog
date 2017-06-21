@@ -1,0 +1,32 @@
+<ul class="post-list">
+  {% for post in site.posts %}
+
+    {% if include.pageTag %}
+
+      {% comment %} Check if 'include.pageTag' is in 'post.pageTags' front matter {% endcomment %}
+      {% assign isOnPage = false %}
+      {% for pageTag in post.pageTags %}
+
+        {% if pageTag == include.pageTag %}
+          {% assign isOnPage = true %}
+        {% endif %}
+
+      {% endfor %}
+
+    {% else %}
+      {% comment %} Include ALL pages if no 'include.pageTag' {% endcomment %}
+      {% assign noPageTag = true %}
+    {% endif %}
+
+    {% if isOnPage or noPageTag %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

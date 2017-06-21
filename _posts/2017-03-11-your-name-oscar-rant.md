@@ -2,6 +2,8 @@
 layout: post
 title:  "Your Name Oscar Rant"
 author: Alex Walker
+pageTags:
+  - rants
 ---
 ![](http://yournamefilm.com.au/images/still_01.jpg)
 

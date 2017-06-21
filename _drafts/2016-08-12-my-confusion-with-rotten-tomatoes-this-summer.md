@@ -2,6 +2,8 @@
 layout: post
 title: "My Confusion With Rotten Tomatoes This Summer"
 author: "Brandon Walker"
+pageTags:
+  - rants
 ---
 
 {% include centered-image.html alt='rotten tomatoes fresh logo' src='https://staticv2-4.rottentomatoes.com/static/images/icons/cf-lg.png' %}
