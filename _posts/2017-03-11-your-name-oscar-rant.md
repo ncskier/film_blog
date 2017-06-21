@@ -17,7 +17,7 @@ So yes, this is very likely only a fraction of the actual answer as to why _Your
 
 Side Note: Rereading the nominees I talk about here, it seems that I forgot all about _Kubo and the Two Strings_. Chances are this is because I actually enjoyed it and thoroughly think that it deserves to be nominated for an Oscar. The others…eh. I haven’t seen _My Life as a Zucchini_ or _The Red Turtle_, but I can’t help but be extremely bitter about them getting nominated.
 
-Other Note: There seems to be some sort of mentality with the Academy where “foreign” immediately equals “arthouse.” If it's not arthouse and it's Ghibli (which to an American audience probably feels like arthouse anyway), the Academy just doesn’t know what to do with it.
+Other Note: There seems to be some sort of mentality with the Academy where “foreign” immediately equals “arthouse.” If it's not arthouse and it's not Ghibli (which to an American audience probably feels like arthouse anyway), the Academy just doesn’t know what to do with it.
 
 Final Note: Yes, I know that Ghibli films are no longer being released and distributed by Disney, instead now being distributed in North America by GKIDS. However, the Ghibli films responsible for building its prestige were. By the time GKIDS bought the rights to theatrical distribution of Ghibli films, Ghibli had already built its reputation in the US and no longer needed Disney's help to earn critical acclaim. Even excluding the Disney argument, though, it remains a fact that Ghibli is the only anime studio to have broken through into mainstream America, and this can’t be ignored when considering its many Oscar nominations.
 
