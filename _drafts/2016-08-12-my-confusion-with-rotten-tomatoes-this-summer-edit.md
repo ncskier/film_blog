@@ -2,7 +2,10 @@
 layout: post
 title: "My Confusion With Rotten Tomatoes This Summer"
 author: "Brandon Walker"
+pageTags:
+  - rants
 ---
+{% include centered-image.html alt='rotten tomatoes fresh logo' src='https://staticv2-4.rottentomatoes.com/static/images/icons/cf-lg.png' %}
 
 This post is about something that's been in the back of my mind for a while now. And after seeing Suicide Squad (despite all the criticism I had been reading) my problem with Rotten Tomatoes has reached its apex. I'm probably going to focus mainly on Suicide Squad during this post/rant, but I'll try to make it clear that this is not the only movie that I think has received a truly unfair tomato score. I'm only focusing on Suicide Squad because I just saw it recently, and think that its score on Rotten Tomatoes is insanely low for the film I watched (who knows, maybe I'll get sidetracked and talk about the other movies more than Suicide Squad, I'm not really sure - I'm just writing off the top of my head right now). Also, I'll try not to get sidetracked and talk about my problem with Captain America: Civil War having a 90% on Rotten Tomatoes (sorry for throwing that in there - that's a post for another time). Anyway, beginning my post...
 
