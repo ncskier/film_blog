@@ -205,6 +205,32 @@
 
 
 /**
+ * Post Preview
+ */
+.post-preview-image-container-bottom, .post-preview-image-container-center, .post-preview-image-container-top {
+  height: 200px;
+
+  overflow: hidden;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.post-preview-image-container-bottom {
+  background-position: bottom;
+}
+
+.post-preview-image-container-middle {
+  background-position: center;
+}
+
+.post-preview-image-container-top {
+  background-position: top;
+}
+
+
+
+/**
  * Posts
  */
 .post-header {

@@ -4,9 +4,12 @@ title: "King Arthur: Legend of the Sword, Wow!"
 author: "Brandon Walker"
 pageTags:
   - wows
+image-src: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3ZTBiZmUtNjI2NS00NjlkLWE4NzctOGU4Zjg1NDM0YzU0XkEyXkFqcGdeQXVyNzU1NTU2NjQ@._V1_.jpg"
+image-alt: "King Arthur Poster"
+preview-align: "top"
 ---
 
-{% include centered-image.html alt='King Arthur Poster' src='https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3ZTBiZmUtNjI2NS00NjlkLWE4NzctOGU4Zjg1NDM0YzU0XkEyXkFqcGdeQXVyNzU1NTU2NjQ@._V1_.jpg' %}
+{% include centered-image.html alt=page.image-alt src=page.image-src %}
 
 I have now seen Guy Ritchie's _King Arthur: Legend of the Sword_ twice in theaters, so I can say for sure, 'Wow!' (that is a direct quote). This movie is awesome, and I urge anyone who happens upon this post to go see _King Arthur: Legend of the Sword_. Watching this film was the most fun I've had at the movies in a long time.
 

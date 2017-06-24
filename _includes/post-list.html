@@ -16,17 +16,20 @@
 
       {% comment %} Include ALL pages if no 'include.pageTag' {% endcomment %}
       {% assign noPageTag = true %}
-      
+
     {% endif %}
 
     {% if isOnPage or noPageTag %}
       <li>
+        {% include post-preview.html post=post %}
+        {% comment %}
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+        {% endcomment %}
       </li>
     {% endif %}
   {% endfor %}
