@@ -1,6 +1,9 @@
 <ul class="post-list">
   {% for post in site.posts %}
 
+    {% assign isOnPage = false %}
+    {% assign noPageTag = false %}
+
     {% if include.pageTag %}
 
       {% comment %} Check if 'include.pageTag' is in 'post.pageTags' front matter {% endcomment %}
