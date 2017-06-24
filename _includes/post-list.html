@@ -7,15 +7,16 @@
     {% if include.pageTag %}
 
       {% comment %} Check if 'include.pageTag' is in 'post.pageTags' front matter {% endcomment %}
-
       {% assign pageTag = post.pageTags | where: include.pageTag, include.pageTag %}
       {% unless pageTag == empty %}
         {% assign isOnPage = true %}
       {% endunless %}
 
     {% else %}
+
       {% comment %} Include ALL pages if no 'include.pageTag' {% endcomment %}
       {% assign noPageTag = true %}
+      
     {% endif %}
 
     {% if isOnPage or noPageTag %}

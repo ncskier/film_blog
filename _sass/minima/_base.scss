@@ -113,6 +113,21 @@ a {
 }
 
 
+
+/**
+ * Hidden Link (overwrite the link style)
+ */
+a.hide {
+  color: $text-color;
+  text-decoration: none;
+
+  &:hover {
+    cursor: text;
+  }
+}
+
+
+
 /**
  * Blockquotes
  */
