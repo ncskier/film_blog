@@ -6,6 +6,8 @@ pageTags:
   - wows
 ---
 
+{% include centered-image.html alt='King Arthur Poster' src='https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3ZTBiZmUtNjI2NS00NjlkLWE4NzctOGU4Zjg1NDM0YzU0XkEyXkFqcGdeQXVyNzU1NTU2NjQ@._V1_.jpg' %}
+
 I have now seen Guy Ritchie's _King Arthur: Legend of the Sword_ twice in theaters, so I can say for sure, 'Wow!' (that is a direct quote). This movie is awesome, and I urge anyone who happens upon this post to go see _King Arthur: Legend of the Sword_. Watching this film was the most fun I've had at the movies in a long time.
 
 I was so impressed by the direction, score, and editing in this film. Almost every moment is infused with such style and energy that I was floored. Watching this movie was like nothing else I had seen recently. The clips are sewn together in such a unique overlapping fashion that constantly impressed me. Many of the scenes are cut to an incredible score by Daniel Pemberton which adds almost as much character to the movie as the direction, editing, and script. There is rarely any down time either. This is a loud, fun time at the movies.
