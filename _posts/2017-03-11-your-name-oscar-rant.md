@@ -4,6 +4,7 @@ title:  "Your Name Oscar Rant"
 author: Alex Walker
 pageTags:
   - rants
+previewType: image
 image-src: "http://yournamefilm.com.au/images/still_01.jpg"
 image-alt: "Your Name Poster"
 preview-align: "bottom"

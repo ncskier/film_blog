@@ -1,34 +1,16 @@
 {% comment %}
   Input:
     - post: [post] object from [site.posts]
-    - type: string for type of post preview
 {% endcomment %}
 
-<a class="post-link" href="{{ post.url | relative_url }}">
-
-  {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-  <span class="post-meta">{{ include.post.date | date: date_format }}</span>
-
-  {% if include.post.image-src %}
-    {% comment %} Get Alignment (bottom, middle, top) {% endcomment %}
-    {% if include.post.preview-align %}
-      {% assign alignment = include.post.preview-align %}
-    {% else %}
-      {% assign alignment = "middle" %}
-    {% endif %}
-
-    {% comment %} Add image {% endcomment %}
-    <div class="post-preview-image-container-{{ alignment }}"
-      title="{{ include.post.image-alt }}"
-      style="background-image: url({{ include.post.image-src }})">
-    </div>
-  {% endif %}
-
-  {% comment %}
-  <h2>
-    <a class="post-link" href="{{ post.url | relative_url }}">{{ include.post.title | escape }}</a>
-  </h2>
-  {% endcomment %}
-  <h4>{{ include.post.title | escape }}</h4>
-
-</a>
+{% comment %}
+  Determine Preview Type
+  types: default, image, trailer
+{% endcomment %}
+{% if include.post.previewType == 'image' %}
+  {% include image-preview.html post=post %}
+{% elsif include.post.previewType == 'trailer' %}
+  {% include trailer-preview.html post=post %}
+{% else %}
+  {% include default-preview.html post=post %}
+{% endif %}
