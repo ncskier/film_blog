@@ -1,16 +1,17 @@
 {% comment %}
   Input:
     - post: [post] object from [site.posts]
+    - type: [type] of (default, image, trailer)
 {% endcomment %}
 
 {% comment %}
   Determine Preview Type
   types: default, image, trailer
 {% endcomment %}
-{% if include.post.previewType == 'image' %}
-  {% include image-preview.html post=post %}
-{% elsif include.post.previewType == 'trailer' %}
-  {% include trailer-preview.html post=post %}
+{% if include.type %}
+  {% assign type = include.type %}
 {% else %}
-  {% include default-preview.html post=post %}
+  {% assign type = 'default' %}
 {% endif %}
+
+{% include {{ type }}-preview.html post=include.post %}

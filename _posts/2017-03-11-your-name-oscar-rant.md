@@ -5,12 +5,12 @@ author: Alex Walker
 pageTags:
   - rants
 previewType: image
-image-src: "http://yournamefilm.com.au/images/still_01.jpg"
-image-alt: "Your Name Poster"
-preview-align: "bottom"
+imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyYzZjM2YtNWZjZS00Nzc2LWExZTgtMTk0NTVmMTU4YjgxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzIxODg3MzY@._V1_.jpg"
+imageAlt: "Your Name Poster"
+previewAlign: "bottom"
 ---
 
-{% include centered-image.html alt=page.image-alt src=page.image-src %}
+{% include centered-image.html alt=page.imageAlt src=page.imageSrc %}
 
 Even before seeing _Your Name_, I was incredibly disappointed that it failed to be nominated for an Oscar. I mean, it is the highest grossing and most culturally significant Japanese film since _Spirited Away_, and when that came out it took home the Academy Award for best animated feature, let alone got nominated. Beyond that, though, looking at the actual nominees, I found myself more disappointed in what got nominated in its stead. We have 2 Disney films which I thought were merely good/ok, an arthouse stop motion animation I haven’t seen, and a Ghibli-backed (but not made) European-Japanese co-production (which I also haven’t seen). Surely one of the Disney films could have been replaced, right? And _The Red Turtle_ as the "anime" nomination, seriously? I know it has Ghibli’s name attached to it, but its importance to the industry as a whole is vastly inferior to that of _Your Name_. However, I reserved some judgement. I mean, I hadn't seen the film, so maybe it just isn’t as good as everyone says it is.
 

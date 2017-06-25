@@ -4,7 +4,10 @@ title: "Logan Trailer"
 author: "Brandon Walker"
 pageTags:
   - trailers
-previewType: trailer
+previewType: image
+imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BYmM4ODMwY2EtMzZhNC00MmUwLTg4ZDAtMTdhNzc4MDVhNTA1XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,1465,1000_AL_.jpg"
+imageAlt: "Logan Poster"
+previewAlign: middle
 youtubeId: "Div0iP65aZo?ecver=2"
 ---
 

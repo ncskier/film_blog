@@ -1,3 +1,9 @@
+{% comment %}
+  Input:
+    - pageTag: tag for each page
+    - previewType: [type] of (default, image, trailer)
+{% endcomment %}
+
 <ul class="post-list">
   {% for post in site.posts %}
 
@@ -21,7 +27,7 @@
 
     {% if isOnPage or noPageTag %}
       <li>
-        {% include post-preview.html post=post %}
+        {% include post-preview.html post=post type=include.previewType %}
         {% comment %}
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>

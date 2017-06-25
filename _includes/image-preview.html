@@ -8,18 +8,18 @@
   {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
   <span class="post-meta">{{ include.post.date | date: date_format }}</span>
 
-  {% if include.post.image-src %}
+  {% if include.post.imageSrc %}
     {% comment %} Get Alignment (bottom, middle, top) {% endcomment %}
-    {% if include.post.preview-align %}
-      {% assign alignment = include.post.preview-align %}
+    {% if include.post.previewAlign %}
+      {% assign alignment = include.post.previewAlign %}
     {% else %}
       {% assign alignment = "middle" %}
     {% endif %}
 
     {% comment %} Add image {% endcomment %}
     <div class="post-preview-image-container-{{ alignment }}"
-      title="{{ include.post.image-alt }}"
-      style="background-image: url({{ include.post.image-src }})">
+      title="{{ include.post.imageAlt }}"
+      style="background-image: url({{ include.post.imageSrc }})">
     </div>
   {% endif %}
 
