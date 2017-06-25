@@ -1,3 +1,9 @@
 <a href="{{ "/" | relative_url }}">
-  <img class="logo" src="{{ "/" | relative_url }}assets/images/icon-logo.png" alt="Biased Movies Logo">
+  <img class="logo"
+    src="{{ "/" | relative_url }}assets/images/icon-logo-250w.png"
+    srcset="{{ "/" | relative_url }}assets/images/icon-logo-250w.png 250w,
+      {{ "/" | relative_url }}assets/images/icon-logo-200w.png 200w,
+      {{ "/" | relative_url }}assets/images/icon-logo-150w.png 150w,
+      {{ "/" | relative_url }}assets/images/icon-logo-100w.png 100w"
+    alt="Biased Movies Logo">
 </a>
