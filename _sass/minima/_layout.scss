@@ -28,6 +28,7 @@
   float: right;
   // line-height: $base-line-height * $base-font-size * 2.25;
   line-height: $logo-height + 10px;
+  z-index: 1;
 
   .nav-trigger {
       display: none;
