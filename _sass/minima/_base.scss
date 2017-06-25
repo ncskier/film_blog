@@ -117,10 +117,12 @@ a {
 /**
  * Hidden Link (overwrite the link style)
  */
-a.hide {
+a.hidden, a.semi-hidden {
   color: $text-color;
   text-decoration: none;
+}
 
+a.hidden {
   &:hover {
     cursor: text;
   }
