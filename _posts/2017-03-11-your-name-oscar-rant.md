@@ -5,7 +5,7 @@ author: Alex Walker
 pageTags:
   - rants
 previewType: image
-imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyYzZjM2YtNWZjZS00Nzc2LWExZTgtMTk0NTVmMTU4YjgxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzIxODg3MzY@._V1_.jpg"
+imageSrc: "http://yournamefilm.com.au/images/still_01.jpg"
 imageAlt: "Your Name Poster"
 previewAlign: "bottom"
 ---
