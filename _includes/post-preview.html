@@ -24,9 +24,11 @@
     </div>
   {% endif %}
 
-  <!-- <h2>
+  {% comment %}
+  <h2>
     <a class="post-link" href="{{ post.url | relative_url }}">{{ include.post.title | escape }}</a>
-  </h2> -->
+  </h2>
+  {% endcomment %}
   <h4>{{ include.post.title | escape }}</h4>
 
 </a>
