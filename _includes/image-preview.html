@@ -3,10 +3,10 @@
     - post: [post] object from [site.posts]
 {% endcomment %}
 
-<a class="post-link" href="{{ post.url | relative_url }}">
+{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+<span class="post-meta">{{ include.post.date | date: date_format }}</span>
 
-  {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-  <span class="post-meta">{{ include.post.date | date: date_format }}</span>
+<a class="post-link" href="{{ post.url | relative_url }}">
 
   {% if include.post.imageSrc %}
     {% comment %} Get Alignment (bottom, middle, top) {% endcomment %}
