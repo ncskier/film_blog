@@ -122,10 +122,8 @@ a.hidden, a.semi-hidden {
   text-decoration: none;
 }
 
-a.hidden {
-  &:hover {
-    cursor: text;
-  }
+a.hidden:hover {
+  cursor: text;
 }
 
 
@@ -229,10 +227,4 @@ pre {
   li + li {
     padding-top: 5px;
   }
-}
-
-.logo {
-  height: $logo-height;
-  margin-top: 5px;
-  margin-bottom: 5px;
 }

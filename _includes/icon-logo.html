@@ -1,3 +1,4 @@
+{% comment %}
 <a href="{{ "/" | relative_url }}">
   <img class="logo"
     src="{{ "/assets/images/icon-logo-250w.png" | relative_url }}"
@@ -6,4 +7,17 @@
       {{ "/assets/images/icon-logo-150w.png" | relative_url }} 150w,
       {{ "/assets/images/icon-logo-100w.png" | relative_url }} 100w"
     alt="Biased Movies Logo">
+</a>
+{% endcomment %}
+
+<a href="{{ "/" | relative_url }}">
+  <div class="logo-div">
+    <img class="logo"
+      src="{{ "/assets/images/movie-thoughts-logo.png" | relative_url }}"
+      alt="Movie Thoughts Logo">
+
+    <span class="logo site-title">
+      {{ site.title | escape | replace: ' ', '<br>' }}
+    </span>
+  </div>
 </a>

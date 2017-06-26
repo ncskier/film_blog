@@ -13,10 +13,11 @@
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  // line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height * $base-font-size;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  // float: left;
 
   &,
   &:visited {
@@ -99,6 +100,31 @@
         margin-right: 0;
       }
       margin-left: 20px;
+    }
+  }
+}
+
+/**
+ * Logo
+ */
+.logo {
+  display: inline-block;
+  height: $logo-height;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  vertical-align: middle;
+}
+
+img.logo {
+  margin-right: 3px;
+}
+
+.logo-div {
+  display: inline-block;
+
+  &:hover {
+    span {
+      text-decoration: underline;
     }
   }
 }
