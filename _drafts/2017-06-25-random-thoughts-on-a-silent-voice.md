@@ -2,7 +2,7 @@
 layout: post
 title:  "Random Thoughts on Koe No Katachi (A Silent Voice)"
 author: Alex Walker
-pageTags:
+tags:
   - reviews
 previewType: image
 imageSrc2: "https://images2.alphacoders.com/738/738176.png"

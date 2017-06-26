@@ -2,7 +2,7 @@
 layout: post
 title: "King Arthur: Legend of the Sword, Wow!"
 author: "Brandon Walker"
-pageTags:
+tags:
   - wows
 previewType: image
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3ZTBiZmUtNjI2NS00NjlkLWE4NzctOGU4Zjg1NDM0YzU0XkEyXkFqcGdeQXVyNzU1NTU2NjQ@._V1_.jpg"

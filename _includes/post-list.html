@@ -5,27 +5,30 @@
 {% endcomment %}
 
 <ul class="post-list">
+
   {% for post in site.posts %}
 
-    {% assign isOnPage = false %}
-    {% assign noPageTag = false %}
+    {% assign onPage = false %}
 
     {% if include.pageTag %}
 
-      {% comment %} Check if 'include.pageTag' is in 'post.pageTags' front matter {% endcomment %}
-      {% assign pageTag = post.pageTags | where: include.pageTag, include.pageTag %}
-      {% unless pageTag == empty %}
-        {% assign isOnPage = true %}
-      {% endunless %}
+      {% comment %} Check if post has a tag matching one of page tags {% endcomment %}
+      {% for postTag in post.tags %}
+
+        {% if include.pageTag == postTag %}
+          {% assign onPage = true %}
+        {% endif %}
+
+      {% endfor %}
 
     {% else %}
 
-      {% comment %} Include ALL pages if no 'include.pageTag' {% endcomment %}
-      {% assign noPageTag = true %}
+      {% comment %} No page tag {% endcomment %}
+      {% assign onPage = true %}
 
     {% endif %}
 
-    {% if isOnPage or noPageTag %}
+    {% if onPage %}
       <li>
         {% include post-preview.html post=post type=include.previewType %}
         {% comment %}
@@ -38,5 +41,6 @@
         {% endcomment %}
       </li>
     {% endif %}
+
   {% endfor %}
 </ul>

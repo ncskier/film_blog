@@ -2,7 +2,7 @@
 layout: post
 title: "My Confusion With Rotten Tomatoes This Summer"
 author: "Brandon Walker"
-pageTags:
+tags:
   - rants
 ---
 

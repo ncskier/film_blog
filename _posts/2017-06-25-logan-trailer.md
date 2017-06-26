@@ -2,7 +2,7 @@
 layout: post
 title: "Logan Trailer"
 author: "Brandon Walker"
-pageTags:
+tags:
   - trailers
 previewType: image
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BYmM4ODMwY2EtMzZhNC00MmUwLTg4ZDAtMTdhNzc4MDVhNTA1XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,1465,1000_AL_.jpg"
