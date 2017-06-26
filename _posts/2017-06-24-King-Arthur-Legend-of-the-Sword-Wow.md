@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "King Arthur: Legend of the Sword, Wow!"
+title: "King Arthur: Legend of the Sword – Wow!"
 author: "Brandon Walker"
 tags:
   - wows
