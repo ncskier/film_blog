@@ -119,6 +119,16 @@ img.logo {
   margin-right: 3px;
 }
 
+.logo-div {
+  display: inline-block;
+
+  &:hover {
+    span {
+      text-decoration: underline;
+    }
+  }
+}
+
 
 
 /**
