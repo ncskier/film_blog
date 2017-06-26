@@ -3,7 +3,7 @@ layout: post
 title:  "Music Mondays: The Good The Bad and the Ugly"
 author: Alex Walker
 tags:
-  - wows
+  - thoughts
 previewType: image
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BY2E3OGI3MGQtZjI3Yy00ODNhLWJiYWUtOWZhODM2YzdmMzhjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_.jpg"
 imageAlt: "The Good the Bad and the Ugly"
