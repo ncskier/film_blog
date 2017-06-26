@@ -10,10 +10,14 @@
 </a>
 {% endcomment %}
 
-<a class="site-title" href="{{ "/" | relative_url }}">
-  <img class="logo"
-    src="{{ "/assets/images/movie-thoughts-logo.png" | relative_url }}"
-    alt="Movie Thoughts Logo">
+<a href="{{ "/" | relative_url }}">
+  <div style="display:inline-block;">
+    <img class="logo"
+      src="{{ "/assets/images/movie-thoughts-logo.png" | relative_url }}"
+      alt="Movie Thoughts Logo">
 
-  {{ site.title | escape }}
+    <span class="logo site-title">
+      {{ site.title | escape | replace: ' ', '<br>' }}
+    </span>
+  </div>
 </a>
