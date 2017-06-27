@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Music Mondays: The Good The Bad and the Ugly"
+title:  "Music Mondays: The Good the Bad and the Ugly"
 author: Alex Walker
 tags:
   - thoughts
