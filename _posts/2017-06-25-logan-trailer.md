@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Logan Trailer"
+title: "Logan – Trailer"
 author: "Brandon Walker"
 tags:
   - trailers
