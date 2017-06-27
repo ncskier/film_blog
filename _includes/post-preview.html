@@ -8,10 +8,12 @@
   Determine Preview Type
   types: default, image, trailer
 {% endcomment %}
-{% if include.type %}
-  {% assign type = include.type %}
-{% else %}
-  {% assign type = 'default' %}
-{% endif %}
+<div>
+  {% if include.type %}
+    {% assign type = include.type %}
+  {% else %}
+    {% assign type = 'default' %}
+  {% endif %}
 
-{% include {{ type }}-preview.html post=include.post %}
+  {% include {{ type }}-preview.html post=include.post %}
+</div>
