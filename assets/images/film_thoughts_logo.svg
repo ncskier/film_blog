@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="film_thoughts_logo.svg">
+   sodipodi:docname="film_thoughts_logo.svg"
+   inkscape:export-filename="/Users/brandonwalker/Documents/film_blog/assets/images/film_thoughts_logo_white.png"
+   inkscape:export-xdpi="101.54044"
+   inkscape:export-ydpi="101.54044">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -30,10 +33,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55"
-     inkscape:cx="507.47955"
-     inkscape:cy="340.30579"
+     inkscape:cx="549.29773"
+     inkscape:cy="485.76034"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1274"
@@ -67,7 +70,7 @@
        sodipodi:cy="556.81818"
        sodipodi:rx="205.68182"
        sodipodi:ry="186.36363"
-       d="m 995.45453,556.81818 a 205.68182,186.36363 0 1 1 -411.36365,0 205.68182,186.36363 0 1 1 411.36365,0 z"
+       d="m 995.45453,556.81818 c 0,102.92579 -92.08689,186.36363 -205.68182,186.36363 -113.59494,0 -205.68183,-83.43784 -205.68183,-186.36363 0,-102.9258 92.08689,-186.36364 205.68183,-186.36364 113.59493,0 205.68182,83.43784 205.68182,186.36364 z"
        transform="matrix(0.88397794,0,0,0.89634146,-1000.3235,2437.4902)" />
     <path
        sodipodi:type="arc"
@@ -77,11 +80,11 @@
        sodipodi:cy="472.72726"
        sodipodi:rx="329.54544"
        sodipodi:ry="279.54544"
-       d="m 474.99998,472.72726 a 329.54544,279.54544 0 1 1 -659.09088,0 329.54544,279.54544 0 1 1 659.09088,0 z"
+       d="m 474.99998,472.72726 c 0,154.38869 -147.54251,279.54545 -329.54544,279.54545 -182.002917,0 -329.54544,-125.15676 -329.54544,-279.54545 0,-154.38868 147.542523,-279.54544 329.54544,-279.54544 182.00293,0 329.54544,125.15676 329.54544,279.54544 z"
        transform="matrix(0.90433328,0,0,0.86283192,-859.35757,2019.3871)" />
     <path
        transform="matrix(0.19315579,0,0,0.16266334,-576.27721,2630.6486)"
-       d="m 474.99998,472.72726 a 329.54544,279.54544 0 1 1 -659.09088,0 329.54544,279.54544 0 1 1 659.09088,0 z"
+       d="m 474.99998,472.72726 c 0,154.38869 -147.54251,279.54545 -329.54544,279.54545 -182.002917,0 -329.54544,-125.15676 -329.54544,-279.54545 0,-154.38868 147.542523,-279.54544 329.54544,-279.54544 182.00293,0 329.54544,125.15676 329.54544,279.54544 z"
        sodipodi:ry="279.54544"
        sodipodi:rx="329.54544"
        sodipodi:cy="472.72726"
@@ -97,8 +100,18 @@
        sodipodi:cy="472.72726"
        sodipodi:rx="329.54544"
        sodipodi:ry="279.54544"
-       d="m 474.99998,472.72726 a 329.54544,279.54544 0 1 1 -659.09088,0 329.54544,279.54544 0 1 1 659.09088,0 z"
+       d="m 474.99998,472.72726 c 0,154.38869 -147.54251,279.54545 -329.54544,279.54545 -182.002917,0 -329.54544,-125.15676 -329.54544,-279.54545 0,-154.38868 147.542523,-279.54544 329.54544,-279.54544 182.00293,0 329.54544,125.15676 329.54544,279.54544 z"
        transform="matrix(0.10031633,0,0,0.08167373,-464.59147,2731.071)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3780"
+       width="600"
+       height="600"
+       x="300"
+       y="1817.0865"
+       inkscape:export-filename="/Users/brandonwalker/Documents/film_blog/assets/images/profile.png"
+       inkscape:export-xdpi="101.54044"
+       inkscape:export-ydpi="101.54044" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -168,7 +181,7 @@
          inkscape:export-xdpi="101.54044"
          inkscape:export-filename="/Users/brandonwalker/Documents/film_blog/assets/images/movie-thoughts-logo_00.png"
          sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:11.32068348;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:#ffffff;stroke:#000000;stroke-width:11.32068347999999958;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
          id="path2993"
          sodipodi:cx="145.45454"
          sodipodi:cy="472.72726"
@@ -187,14 +200,14 @@
          sodipodi:cy="472.72726"
          sodipodi:cx="145.45454"
          id="path2995"
-         style="fill:none;stroke:#000000;stroke-width:56.41587067;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:#ffffff;stroke:#000000;stroke-width:56.41587067000000388;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
          sodipodi:type="arc" />
       <path
          inkscape:export-ydpi="101.54044"
          inkscape:export-xdpi="101.54044"
          inkscape:export-filename="/Users/brandonwalker/Documents/film_blog/assets/images/movie-thoughts-logo_00.png"
          sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:110.47728729;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:#ffffff;stroke:#000000;stroke-width:110.47728728999999248;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;fill-opacity:1"
          id="path2997"
          sodipodi:cx="145.45454"
          sodipodi:cy="472.72726"
@@ -257,6 +270,61 @@
            style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.7118566;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            sodipodi:type="arc" />
       </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/brandonwalker/Documents/Stuff/biased-movie-reviews/assets/images/film-camera-logo-tilted.png"
+       transform="matrix(0.69995214,-0.22534094,0.22534094,0.69995214,230.52053,1529.4155)"
+       id="g3770">
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3772"
+         width="301.14786"
+         height="215.1741"
+         x="49.004768"
+         y="817.18799"
+         ry="0"
+         inkscape:export-filename="/Users/brandonwalker/Documents/Stuff/biased-movie-reviews/assets/images/film-camera-logo.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 353.06721,926.6576 506,831.722 l 0,189.8712 -152.93279,-94.9356"
+         id="path3774"
+         inkscape:path-effect="#path-effect3097"
+         inkscape:original-d="M 353.06721,926.6576 506,831.722 l 0,189.8712 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="/Users/brandonwalker/Documents/Stuff/biased-movie-reviews/assets/images/film-camera-logo.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         transform="matrix(2.1552557,0,0,2.1552557,-307.43732,156.44352)"
+         d="m 234.86842,258.88159 c 0,25.97919 -21.06029,47.03948 -47.03947,47.03948 -25.97919,0 -47.03948,-21.06029 -47.03948,-47.03948 0,-25.97918 21.06029,-47.03947 47.03948,-47.03947 25.97918,0 47.03947,21.06029 47.03947,47.03947 z"
+         sodipodi:ry="47.039474"
+         sodipodi:rx="47.039474"
+         sodipodi:cy="258.88159"
+         sodipodi:cx="187.82895"
+         id="path3776"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.7118566;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         inkscape:export-filename="/Users/brandonwalker/Documents/Stuff/biased-movie-reviews/assets/images/film-camera-logo.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.7118566;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3778"
+         sodipodi:cx="187.82895"
+         sodipodi:cy="258.88159"
+         sodipodi:rx="47.039474"
+         sodipodi:ry="47.039474"
+         d="m 234.86842,258.88159 c 0,25.97919 -21.06029,47.03948 -47.03947,47.03948 -25.97919,0 -47.03948,-21.06029 -47.03948,-47.03948 0,-25.97918 21.06029,-47.03947 47.03948,-47.03947 25.97918,0 47.03947,21.06029 47.03947,47.03947 z"
+         transform="matrix(2.1552557,0,0,2.1552557,-103.20951,156.44352)"
+         inkscape:export-filename="/Users/brandonwalker/Documents/Stuff/biased-movie-reviews/assets/images/film-camera-logo.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
   </g>
 </svg>
