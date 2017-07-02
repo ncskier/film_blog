@@ -7,10 +7,10 @@ tags: # [thoughts/trailers/wows]
   - wows
 
 # (required) [image] preview type
-imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BOWE3MmZhZjctZTA3ZS00NzAxLThkMzctZGZkMTc0Y2YwMzI5XkEyXkFqcGdeQXVyNjk2MjI2NTY@._V1_.jpg"
+imageSrc: "http://www.babydriver-movie.com/images/noSupportScreen/no_support_bg.jpg"
 imageAlt: "Baby Driver Poster"
 # (optional)
-previewAlign: middle # [bottom/middle/top]
+previewAlign: top # [bottom/middle/top]
 
 # (required) [trailer] preview type
 # youtubeId: ""
@@ -23,6 +23,8 @@ Throughout _Baby Driver_'s runtime, my jaw hit the floor on more than one occasi
 Music flows throughout the core of _Baby Driver_ and is not only used to choreograph action. There are wonderful sections where the music-editing-combo is used to great comedic effect or to convey certain feelings to the audience. _Baby Driver_ did an awesome job capturing the feeling you get when you're listening to a great song and you start acting and perceiving things in time with the beat. It's like you start viewing the world through the music you're listening to, and Edgar Wright brilliantly makes this the reality in _Baby Driver_.
 
 {% comment %} possible posters
+https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1NTk3NTczMF5BMl5BanBnXkFtZTgwOTcxNTMzMjI@._V1_SX1500_CR0,0,1500,999_AL_.jpg
+
 http://www.babydriver-movie.com/images/noSupportScreen/no_support_bg.jpg
 
 https://images-na.ssl-images-amazon.com/images/M/MV5BOWE3MmZhZjctZTA3ZS00NzAxLThkMzctZGZkMTc0Y2YwMzI5XkEyXkFqcGdeQXVyNjk2MjI2NTY@._V1_.jpg
@@ -30,6 +32,8 @@ https://images-na.ssl-images-amazon.com/images/M/MV5BOWE3MmZhZjctZTA3ZS00NzAxLTh
 https://images-na.ssl-images-amazon.com/images/M/MV5BMTA5ODA5NDkzNDReQTJeQWpwZ15BbWU4MDcxNDcyNjIy._V1_SX1777_CR0,0,1777,744_AL_.jpg
 
 https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1ODIwMTYxNV5BMl5BanBnXkFtZTgwNDkzNzI2MjI@._V1_SX1777_CR0,0,1777,744_AL_.jpg
+
+https://images-na.ssl-images-amazon.com/images/M/MV5BZjI1M2ZiNmEtNjY3ZC00MmFkLTkzNmQtMmNlNjg2NDcyZTNmXkEyXkFqcGdeQXVyNjk2MjI2NTY@._V1_.jpg
 
 https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxOTQwNjk2N15BMl5BanBnXkFtZTgwNzgzNzI2MjI@._V1_SX1777_CR0,0,1777,744_AL_.jpg
 
