@@ -5,7 +5,8 @@ author: Alex Walker
 tags:
   - thoughts
 previewType: image
-imageSrc: "http://yournamefilm.com.au/images/still_01.jpg"
+# imageSrc: "http://yournamefilm.com.au/images/still_01.jpg"
+imageSrc: /assets/images/posts/your-name-poster.jpg
 imageAlt: "Your Name Poster"
 previewAlign: "bottom"
 ---
