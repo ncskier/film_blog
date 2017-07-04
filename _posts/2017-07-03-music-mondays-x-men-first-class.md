@@ -5,7 +5,7 @@ author: Alex Walker
 tags:
   - thoughts
 previewType: image
-imageSrc: assets/images/magneto.png
+imageSrc: assets/images/posts/magneto.png
 imageAlt: "X-Men: First Class Magneto"
 previewAlign: middle
 youtubeId: "WN0l6F96_YA"
