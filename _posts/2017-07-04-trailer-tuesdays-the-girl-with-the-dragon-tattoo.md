@@ -17,7 +17,7 @@ previewAlign: middle # [bottom/middle/top]
 youtubeId: "WVLvMg62RPA"
 ---
 
-Turn on your best speakers (you know, the ones with the bass) and watch this on a TV if you can – it'll be worth the extra effort (especially if you've never seen this trailer before).
+Turn on your best speakers (you know, the ones with the bass) and watch this on a TV (if you can) – it'll be worth the extra effort (especially if you've never seen this trailer before).
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
