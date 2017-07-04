@@ -237,7 +237,12 @@ img.logo {
  * Post Preview
  */
 .post-preview-image-container-bottom, .post-preview-image-container-middle, .post-preview-image-container-top {
+  max-height: 200px;
   height: 200px;
+
+  @include media-query($on-palm) {
+    height: 40vw
+  }
 
   overflow: hidden;
 
