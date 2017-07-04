@@ -5,8 +5,9 @@ author: Alex Walker
 tags:
   - thoughts
 previewType: image
-imageSrc2: "https://images2.alphacoders.com/738/738176.png"
-imageAlt2: "Koe No Katachi Movie"
+# imageSrc2: "https://images2.alphacoders.com/738/738176.png"
+imageSrc2: /assets/images/posts/koe-no-katachi-poster.png
+imageAlt2: "Koe No Katachi Poster"
 imageSrc: "https://peachsalmanac.com/wp-content/uploads/2017/05/Koe-No-Katachi-anime-art-day-out-summer.jpg"
 imageAlt: "Koe No Katachi Museum Scene"
 previewAlign: "bottom"
