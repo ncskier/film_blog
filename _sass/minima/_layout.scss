@@ -241,7 +241,7 @@ img.logo {
   height: 200px;
 
   @include media-query($on-palm) {
-    height: 30vw
+    height: 40vw
   }
 
   overflow: hidden;
