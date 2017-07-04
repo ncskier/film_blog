@@ -23,9 +23,9 @@ Turn on your best speakers (you know, the ones with the bass) and watch this on 
 
 <br>
 
-Now, remember how to inhale, and take your first breath in roughly 3 minutes (after you're done watching the trailer for the second time).
+<!-- Now, remember how to inhale, and take your first breath in roughly 3 minutes (after you're done watching the trailer for the second time). -->
 
-If you can't tell, I think this is a staggeringly brilliant trailer. I was fortunate enough to get blindsided by this _The Girl with the Dragon Tattoo_ trailer while in a movie theater. Today, I have absolutely no idea what film I was at the movies to see because all I remember from that theater experience was this trailer. This trailer provided, by far, my top trailer-watching experience of all time. It is simply awesome!
+I was fortunate enough to get blindsided by this trailer while in a movie theater. Today, I have no idea what film I was watching at the movies because all I remember from that theater experience was this trailer. This trailer provided, by far, my top trailer-watching experience of all time. It is simply awesome!
 
 When I saw this trailer, I had no idea what it was for. Unlike _Marvel_, _Start Wars_, etc. franchise properties today which put out great trailers made better by their established brands (_~cough~_ Star Wars nostalgia _~cough~_) this trailer doesn't need any support. It just punches you right in the face (in a good way) with its quick edits and killer music. This punch to the face is the perfect tone for _The Girl with the Dragon Tattoo_ as is creates intrigue from the dark, grim mystery it establishes.
 
