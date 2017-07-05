@@ -40,13 +40,8 @@
         {% assign postWords = post.content | lowercase | split: ' ' | uniq | size %}
         {% assign combinedWordsMax = pageWords | plus: postWords %}
         {% assign combinedWords = page.content | append: post.content | lowercase | split: ' ' | uniq | size %}
-        <!-- page.excerpt: {{ page.excerpt }} -->
-        <!-- post.excerpt: {{ post.excerpt }} -->
-        <!-- pageWords: {{ pageWords }} -->
-        <!-- postWords: {{ postWords }} -->
-        <!-- combinedWords: {{ combinedWords }} -->
+
         {% assign sameWordCount = combinedWordsMax | minus: combinedWords %}
-        <!-- sameWordCount: {{ sameWordCount }} -->
 
         {% comment %} Add to [related] string list {% endcomment %}
         {% assign relatedStringArray = relatedStringArray
