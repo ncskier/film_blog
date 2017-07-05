@@ -4,6 +4,7 @@ title:  "Random Thoughts on Koe No Katachi (A Silent Voice)"
 author: Alex Walker
 tags:
   - thoughts
+  - anime
 previewType: image
 # imageSrc2: "https://images2.alphacoders.com/738/738176.png"
 imageSrc2: /assets/images/posts/koe-no-katachi-poster.png

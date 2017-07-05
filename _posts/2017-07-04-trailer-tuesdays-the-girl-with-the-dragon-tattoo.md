@@ -5,6 +5,7 @@ author: "Brandon Walker"
 tags: # [thoughts/trailers/wows]
   - thoughts
   - trailers
+  - trailer tuesdays
 
 # (required) [image] preview type
 # imageSrc: "http://2.bp.blogspot.com/-DExsqRUvnO8/T41yitOs2MI/AAAAAAAAALc/KHqMofpaw4I/s1600/the+girl+dragon+tattoo+-+vanger+house.png"
