@@ -4,6 +4,7 @@ title:  "Your Name Oscar Rant"
 author: Alex Walker
 tags:
   - thoughts
+  - anime
 previewType: image
 # imageSrc: "http://yournamefilm.com.au/images/still_01.jpg"
 imageSrc: /assets/images/posts/your-name-poster.jpg

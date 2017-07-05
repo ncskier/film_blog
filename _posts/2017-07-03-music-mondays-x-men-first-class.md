@@ -4,6 +4,7 @@ title:  "Music Mondays: X-Men First Class"
 author: Alex Walker
 tags:
   - thoughts
+  - music mondays
 previewType: image
 imageSrc: "/assets/images/posts/magneto.png"
 imageAlt: "X-Men: First Class Magneto"
