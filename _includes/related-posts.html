@@ -7,23 +7,19 @@
 
     {% comment %}
       0: number
-      1: title
+      1: same word count
       2: url
+      3: title
     {% endcomment %}
     {% assign postDelimiter = ' |^-postDelimiter-^| ' %}
     {% assign tagDelimiter = '-^|tagDelimiter|^-' %}
     {% assign relatedStringArray = '' %}
 
     {% comment %} Search Tags {% endcomment %}
-    <!-- {{ page.tags }} -->
     {% for post in site.posts %}
       {% assign sameTagCount = 0 %}
       {% assign commonTags = '' %}
-      <!-- {{ post.title }} -->
-      <!-- tags: {{ post.tags }} -->
-      <!-- commonTags: {{ commonTags }} -->
-      <!-- sameTagCount: {{ sameTagCount }} -->
-      <!-- -->
+
       {% if post.url == page.url %}
         {% continue %}
       {% endif %}
@@ -38,34 +34,49 @@
       {% endfor %}
 
       {% if sameTagCount >= minCommonTags %}
+        {% comment %} Find number of words in common {% endcomment %}
+        {% assign commonWords = 0 %}
+        {% assign pageWords = page.content | lowercase | split: ' ' | uniq | size %}
+        {% assign postWords = post.content | lowercase | split: ' ' | uniq | size %}
+        {% assign combinedWordsMax = pageWords | plus: postWords %}
+        {% assign combinedWords = page.content | append: post.content | lowercase | split: ' ' | uniq | size %}
+        <!-- page.excerpt: {{ page.excerpt }} -->
+        <!-- post.excerpt: {{ post.excerpt }} -->
+        <!-- pageWords: {{ pageWords }} -->
+        <!-- postWords: {{ postWords }} -->
+        <!-- combinedWords: {{ combinedWords }} -->
+        {% assign sameWordCount = combinedWordsMax | minus: combinedWords %}
+        <!-- sameWordCount: {{ sameWordCount }} -->
+
         {% comment %} Add to [related] string list {% endcomment %}
         {% assign relatedStringArray = relatedStringArray
           | append: postDelimiter
           | append: sameTagCount
           | append: tagDelimiter
-          | append: post.title
+          | append: sameWordCount
           | append: tagDelimiter
           | append: post.url
+          | append: tagDelimiter
+          | append: post.title
         %}
 
-        <!-- <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li> -->
-        <!-- <div>
-          <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
-        </div> -->
       {% endif %}
     {% endfor %}
 
+    <!-- ################################################################### -->
+
     {% comment %} Transform [related] into array {% endcomment %}
-    <!-- relatedStringArray: {{ relatedStringArray }} -->
     {% assign related = relatedStringArray | split: postDelimiter | sort | reverse %}
     {% for postString in related limit:maxRelated %}
       {% if postString != '' %}
         {% assign post = postString | split: tagDelimiter %}
         {% assign postNumber = post[0] %}
-        {% assign postTitle = post[1] %}
+        {% assign postSameWordCount = post[1] %}
         {% assign postUrl = post[2] %}
+        {% assign postTitle = post[3] %}
         <!-- -->
         <!-- number: {{ postNumber }} -->
+        <!-- sameWordCount: {{ postSameWordCount }} -->
         <!-- title: {{ postTitle }} -->
         <!-- url: {{ postUrl }} -->
         <li><a href="{{ postUrl | relative_url }}">{{ postTitle }}</a></li>
