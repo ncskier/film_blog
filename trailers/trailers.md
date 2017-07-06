@@ -6,4 +6,5 @@
 layout: trailers
 permalink: /trailers/
 title: Trailers
+page_num: 1
 ---

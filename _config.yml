@@ -11,7 +11,7 @@ github_username:  jekyll
 google_analytics: UA-101758192-1
 
 # Number of pages
-paginate: 3
+paginate: 5
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -33,3 +33,4 @@ exclude:
 # Automatically Generate Sitemap (sitemap.xml)
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
