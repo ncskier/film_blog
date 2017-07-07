@@ -50,20 +50,8 @@
 <!-- previousPage: {{ previousPage }} -->
 <!-- previousPagePath: {{ previousPagePath }} -->
 
-<div class="pagination">
-
-  {% if previousPagePath %}
-    <a href="{{ previousPagePath }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-
-  <span class="page_number ">Page: {{ pageNum }} of {{ totalPages }}</span>
-
-  {% if nextPagePath %}
-    <a href="{{ nextPagePath }}" class="next">Next</a>
-  {% else %}
-    <span class="next">Next</span>
-  {% endif %}
-
-</div>
+{% include pagination.html
+  pageNum=pageNum
+  totalPages=totalPages
+  nextPagePath=nextPagePath
+  previousPagePath=previousPagePath %}
