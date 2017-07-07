@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Baby Driver – Wow!"
+title: "Quick Thoughts on Baby Driver"
 author: "Brandon Walker"
 tags: # [thoughts/trailers/wows]
   - thoughts
