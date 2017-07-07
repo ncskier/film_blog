@@ -31,22 +31,11 @@
     {% if onPage %}
       <li>
         {% include post-preview.html post=post type=include.previewType %}
-        {% comment %}
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        {% endcomment %}
       </li>
     {% endif %}
 
   {% endfor %}
 </ul>
-
-<!-- paginator.next_page_path: {{ paginator.next_page_path }} -->
-<!-- paginator.previous_page_path: {{ paginator.previous_page_path }} -->
 
 {% include pagination.html
   pageNum=paginator.page

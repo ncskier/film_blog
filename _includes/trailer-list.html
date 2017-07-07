@@ -22,9 +22,6 @@
 {% endcomment %}
 {% assign totalPages = site.categories.trailers | size | times: 1.0 | divided_by: perPage | ceil | times: 1 %}
 
-<!-- pageNum: {{ pageNum }} -->
-<!-- totalPages: {{ totalPages }} -->
-
 {% comment %} Get [nextPagePath] {% endcomment %}
 {% if pageNum < totalPages %}
   {% assign nextPage = pageNum | plus: 1 %}
@@ -44,11 +41,6 @@
     {% assign previousPagePath = page.url | split: '/' | pop | join: '/' %}
   {% endif %}
 {% endif %}
-
-<!-- nextPage: {{ nextPage }} -->
-<!-- nextPagePath: {{ nextPagePath }} -->
-<!-- previousPage: {{ previousPage }} -->
-<!-- previousPagePath: {{ previousPagePath }} -->
 
 {% include pagination.html
   pageNum=pageNum
