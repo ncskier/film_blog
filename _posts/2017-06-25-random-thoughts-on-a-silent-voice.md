@@ -10,7 +10,7 @@ previewType: image
 # imageSrc2: /assets/images/posts/koe-no-katachi-poster.jpg
 imageSrc2: "https://d195nid4sd8yh0.cloudfront.net/post-images/koe-no-katachi-poster.jpg"
 imageAlt2: "Koe No Katachi Poster"
-imageSrc: "https://peachsalmanac.com/wp-content/uploads/2017/05/Koe-No-Katachi-anime-art-day-out-summer.jpg"
+imageSrc: "https://d195nid4sd8yh0.cloudfront.net/post-images/koe-no-katachi-anime-art-day-out-summer.jpg"
 imageAlt: "Koe No Katachi Museum Scene"
 previewAlign: "middle"
 ---
