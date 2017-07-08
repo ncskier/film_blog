@@ -1,0 +1,12 @@
+{% comment %}
+{% endcomment %}
+
+<ul class="post-list">
+  {% for post in site.posts %}
+
+    <li>
+      {% include post-preview.html post=post type='default' %}
+    </li>
+
+  {% endfor %}
+</ul>
