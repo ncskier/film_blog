@@ -6,7 +6,7 @@ tags:
   - thoughts
   - music mondays
 previewType: image
-imageSrc: "/assets/images/posts/magneto.png"
+imageSrc: "/assets/images/posts/magneto.jpg"
 imageAlt: "X-Men: First Class Magneto"
 previewAlign: middle
 youtubeId: "WN0l6F96_YA"
