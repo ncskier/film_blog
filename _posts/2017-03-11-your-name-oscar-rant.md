@@ -7,7 +7,8 @@ tags:
   - anime
 previewType: image
 # imageSrc: "http://yournamefilm.com.au/images/still_01.jpg"
-imageSrc: /assets/images/posts/your-name-poster.jpg
+# imageSrc: /assets/images/posts/your-name-poster.jpg
+imageSrc: "https://d195nid4sd8yh0.cloudfront.net/post-images/your-name-poster.jpg"
 imageAlt: "Your Name Poster"
 previewAlign: "bottom"
 ---

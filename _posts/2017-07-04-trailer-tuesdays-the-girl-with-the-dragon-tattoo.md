@@ -11,7 +11,8 @@ categories:
 
 # (required) [image] preview type
 # imageSrc: "http://2.bp.blogspot.com/-DExsqRUvnO8/T41yitOs2MI/AAAAAAAAALc/KHqMofpaw4I/s1600/the+girl+dragon+tattoo+-+vanger+house.png"
-imageSrc: "/assets/images/posts/the-girl-with-the-dragon-tattoo-vanger-house.jpg"
+# imageSrc: "/assets/images/posts/the-girl-with-the-dragon-tattoo-vanger-house.jpg"
+imageSrc: "https://d195nid4sd8yh0.cloudfront.net/post-images/the-girl-with-the-dragon-tattoo-vanger-house.jpg"
 imageAlt: "The Girl with the Dragon Tattoo Vanger House"
 # (optional)
 previewAlign: middle # [bottom/middle/top]
