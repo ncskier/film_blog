@@ -2,9 +2,11 @@
 layout: post
 title: "Quick Thoughts on King Arthur: Legend of the Sword"
 author: "Brandon Walker"
+categories:
+  - movies
 tags:
-  - thoughts
-  - wows
+  - movie
+  - quick thoughts
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3ZTBiZmUtNjI2NS00NjlkLWE4NzctOGU4Zjg1NDM0YzU0XkEyXkFqcGdeQXVyNzU1NTU2NjQ@._V1_.jpg"
 imageAlt: "King Arthur Poster"
 previewAlign: top

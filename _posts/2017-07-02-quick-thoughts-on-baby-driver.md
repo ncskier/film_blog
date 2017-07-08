@@ -2,9 +2,11 @@
 layout: post
 title: "Quick Thoughts on Baby Driver"
 author: "Brandon Walker"
+categories:
+  - movies
 tags: # [thoughts/trailers/wows]
-  - thoughts
-  - wows
+  - movie
+  - quick thoughts
 
 # (required) [image] preview type
 # imageSrc: "http://www.babydriver-movie.com/images/noSupportScreen/no_support_bg.jpg"

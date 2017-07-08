@@ -2,9 +2,13 @@
 layout: post
 title:  "Your Name Oscar Rant"
 author: Alex Walker
-tags:
-  - thoughts
+categories:
   - anime
+  - movies
+tags:
+  - anime
+  - movie
+  - rant
 previewType: image
 # imageSrc: "http://yournamefilm.com.au/images/still_01.jpg"
 # imageSrc: /assets/images/posts/your-name-poster.jpg

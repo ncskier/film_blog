@@ -2,12 +2,13 @@
 layout: post
 title: "Trailer Tuesdays: The Girl with the Dragon Tattoo"
 author: "Brandon Walker"
-tags: # [thoughts/trailers/wows]
-  - thoughts
-  - trailers
-  - trailer tuesdays
 categories:
   - trailers
+  - movies
+tags: # [thoughts/trailers/wows]
+  - trailer tuesdays
+  - trailer
+  - movie
 
 # (required) [image] preview type
 # imageSrc: "http://2.bp.blogspot.com/-DExsqRUvnO8/T41yitOs2MI/AAAAAAAAALc/KHqMofpaw4I/s1600/the+girl+dragon+tattoo+-+vanger+house.png"
