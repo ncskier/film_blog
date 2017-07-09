@@ -11,7 +11,7 @@ tags: # [thoughts/trailers/wows]
 # (required) [image] preview type
 # imageSrc: "http://www.babydriver-movie.com/images/noSupportScreen/no_support_bg.jpg"
 # imageSrc: "/assets/images/posts/baby-driver-poster-crop.jpg"
-imageSrc: "https://d195nid4sd8yh0.cloudfront.net/post-images/baby-driver-poster-crop.jpg"
+imageSrc: "https://dmn0f9g56xzxa.cloudfront.net/post-images/baby-driver-poster-crop.jpg"
 imageAlt: "Baby Driver Poster"
 # (optional)
 previewAlign: top # [bottom/middle/top]

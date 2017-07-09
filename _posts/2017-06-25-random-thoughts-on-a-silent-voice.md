@@ -12,9 +12,9 @@ tags:
 previewType: image
 # imageSrc2: "https://images2.alphacoders.com/738/738176.png"
 # imageSrc2: /assets/images/posts/koe-no-katachi-poster.jpg
-imageSrc2: "https://d195nid4sd8yh0.cloudfront.net/post-images/koe-no-katachi-poster.jpg"
+imageSrc2: "https://dmn0f9g56xzxa.cloudfront.net/post-images/koe-no-katachi-poster.jpg"
 imageAlt2: "Koe No Katachi Poster"
-imageSrc: "https://d195nid4sd8yh0.cloudfront.net/post-images/koe-no-katachi-anime-art-day-out-summer.jpg"
+imageSrc: "https://dmn0f9g56xzxa.cloudfront.net/post-images/koe-no-katachi-anime-art-day-out-summer.jpg"
 imageAlt: "Koe No Katachi Museum Scene"
 previewAlign: "middle"
 ---
