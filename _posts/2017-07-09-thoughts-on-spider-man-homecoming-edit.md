@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Random Thoughts on Spider-Man: Homecoming"
+title: "Biased Thoughts on Spider-Man: Homecoming"
 author: "Alex Walker"
 tags: # [thoughts/trailers/wows]
   - thoughts
