@@ -2,15 +2,21 @@
 layout: post
 title:  "Random Thoughts on Koe No Katachi (A Silent Voice)"
 author: Alex Walker
+categories:
+  - anime
+  - movies
 tags:
-  - thoughts
+  - anime
+  - movie
+  - random thoughts
 previewType: image
 # imageSrc2: "https://images2.alphacoders.com/738/738176.png"
-imageSrc2: /assets/images/posts/koe-no-katachi-poster.png
+# imageSrc2: /assets/images/posts/koe-no-katachi-poster.jpg
+imageSrc2: "https://dmn0f9g56xzxa.cloudfront.net/post-images/koe-no-katachi-poster.jpg"
 imageAlt2: "Koe No Katachi Poster"
-imageSrc: "https://peachsalmanac.com/wp-content/uploads/2017/05/Koe-No-Katachi-anime-art-day-out-summer.jpg"
+imageSrc: "https://dmn0f9g56xzxa.cloudfront.net/post-images/koe-no-katachi-anime-art-day-out-summer.jpg"
 imageAlt: "Koe No Katachi Museum Scene"
-previewAlign: "bottom"
+previewAlign: "middle"
 ---
 {% include centered-image.html alt=page.imageAlt2 src=page.imageSrc2 %}
 

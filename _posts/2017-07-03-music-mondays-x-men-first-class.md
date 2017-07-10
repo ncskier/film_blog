@@ -2,10 +2,14 @@
 layout: post
 title:  "Music Mondays: X-Men First Class"
 author: Alex Walker
+categories:
+  - movies
 tags:
-  - thoughts
+  - music mondays
+  - movie
 previewType: image
-imageSrc: "/assets/images/posts/magneto.png"
+# imageSrc: "/assets/images/posts/magneto.jpg"
+imageSrc: "https://dmn0f9g56xzxa.cloudfront.net/post-images/magneto.jpg"
 imageAlt: "X-Men: First Class Magneto"
 previewAlign: middle
 youtubeId: "WN0l6F96_YA"

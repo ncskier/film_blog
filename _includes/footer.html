@@ -20,6 +20,7 @@
         </ul>
       </div>
 
+      {% comment %}
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           {% if site.github_username %}
@@ -36,9 +37,10 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-3" style="float:right">
         <p>{{ site.description | escape }}</p>
       </div>
+      {% endcomment %}
     </div>
 
     <div class="footer-col-wrapper">

@@ -1,0 +1,49 @@
+{% comment %}
+{% endcomment %}
+
+<!-- Trailer List Page {{ page.page }}-->
+
+{% assign perPage = include.per_page %}
+{% assign pageNum = page.page_num %}
+{% assign offset = pageNum | minus: 1 | times: perPage %}
+
+<ul class="post-list">
+  {% for post in site.categories.trailers offset:offset limit:perPage %}
+
+    <li>
+      {% include post-preview.html post=post type='trailer' %}
+    </li>
+
+  {% endfor %}
+</ul>
+
+{% comment %}
+  Pagination
+{% endcomment %}
+{% assign totalPages = site.categories.trailers | size | times: 1.0 | divided_by: perPage | ceil | times: 1 %}
+
+{% comment %} Get [nextPagePath] {% endcomment %}
+{% if pageNum < totalPages %}
+  {% assign nextPage = pageNum | plus: 1 %}
+  {% if pageNum != 1 %}
+    {% assign nextPagePath = page.url | replace: pageNum, nextPage %}
+  {% else %}
+    {% assign nextPagePath = page.url | append: 'page' | append: nextPage %}
+  {% endif %}
+{% endif %}
+
+{% comment %} Get [previousPagePath] {% endcomment %}
+{% if 1 < pageNum %}
+  {% assign previousPage = pageNum | minus: 1 %}
+  {% if previousPage != 1 %}
+    {% assign previousPagePath = page.url | replace: pageNum, previousPage %}
+  {% else %}
+    {% assign previousPagePath = page.url | split: '/' | pop | join: '/' %}
+  {% endif %}
+{% endif %}
+
+{% include pagination.html
+  pageNum=pageNum
+  totalPages=totalPages
+  nextPagePath=nextPagePath
+  previousPagePath=previousPagePath %}

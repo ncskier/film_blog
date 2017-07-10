@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">{{ page.title }}</h1>
+
+  {{ content }}
+
+  {% comment %}
+  <h4>Categories</h4>
+  <ul>
+    {% for category in site.categories %}
+      <li>{{ category | first }}</li>
+    {% endfor %}
+  </ul>
+
+  <h4>Tags</h4>
+  <ul>
+    {% for tag in site.tags %}
+      <li>{{ tag | first }}</li>
+    {% endfor %}
+  </ul>
+  {% endcomment %}
+
+
+  {% include archive-list.html %}
+
+</div>

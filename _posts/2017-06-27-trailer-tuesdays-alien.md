@@ -2,9 +2,13 @@
 layout: post
 title: "Trailer Tuesdays: Alien"
 author: "Brandon Walker"
-tags:
-  - thoughts
+categories:
   - trailers
+  - movies
+tags:
+  - trailer tuesdays
+  - trailer
+  - movie
 previewType: image
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NjEwMzg0OF5BMl5BanBnXkFtZTcwNjM2NTUyMw@@._V1_SY1000_CR0,0,734,1000_AL_.jpg"
 imageAlt: "Alien Poster"

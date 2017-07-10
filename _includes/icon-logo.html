@@ -11,10 +11,13 @@
 {% endcomment %}
 
 <a href="{{ "/" | relative_url }}" style="display:inline-block;">
-  <div class="logo-div">
-    <img class="logo"
-      src="{{ "/assets/images/movie-thoughts-logo.png" | relative_url }}"
+  <div id="logo-div" class="logo-div">
+    <img id="logo" class="logo"
+      src="https://dmn0f9g56xzxa.cloudfront.net/logo/movie-thoughts-logo.png"
       alt="Movie Thoughts Logo">
+    <img
+      src="https://dmn0f9g56xzxa.cloudfront.net/logo/movie-thoughts-logo-animation.gif"
+      style="display:none;">
 
     <span class="logo site-title">
       {{ site.title | escape | replace: ' ', '<br>' }}
