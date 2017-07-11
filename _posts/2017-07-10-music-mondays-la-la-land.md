@@ -2,8 +2,11 @@
 layout: post
 title: "Music Mondays: La La Land"
 author: "Alex Walker"
+categories:
+  - movies
 tags: # [thoughts/trailers/wows]
-  - thoughts
+  - music mondays
+  - movie
 
 # (required) [image] preview type
 # imageSrc: "http://www.babydriver-movie.com/images/noSupportScreen/no_support_bg.jpg"

@@ -2,8 +2,11 @@
 layout: post
 title: "Biased Thoughts on Spider-Man: Homecoming"
 author: "Alex Walker"
+categories:
+  - movies
 tags: # [thoughts/trailers/wows]
-  - thoughts
+  - biased thoughts
+  - movie
 
 # (required) [image] preview type
 # imageSrc: "http://www.babydriver-movie.com/images/noSupportScreen/no_support_bg.jpg"
