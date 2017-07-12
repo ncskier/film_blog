@@ -1,7 +1,7 @@
 {% comment %}
 {% endcomment %}
 
-<!-- Trailer List Page {{ page.page }}-->
+<!-- Trailer List Page {{ page.page_num }}-->
 
 {% assign perPage = include.per_page %}
 {% assign pageNum = page.page_num %}
@@ -21,22 +21,28 @@
   Pagination
 {% endcomment %}
 {% assign totalPages = site.categories.trailers | size | times: 1.0 | divided_by: perPage | ceil | times: 1 %}
+{% capture pageNumString %}{{ pageNum }}{% endcapture %}
+<!-- pageNumString: {{ pageNumString }} -->
 
 {% comment %} Get [nextPagePath] {% endcomment %}
 {% if pageNum < totalPages %}
   {% assign nextPage = pageNum | plus: 1 %}
+  {% capture nextPageString %}{{ nextPage }}{% endcapture %}
+  <!-- nextPageString: {{ nextPageString }} -->
   {% if pageNum != 1 %}
-    {% assign nextPagePath = page.url | replace: pageNum, nextPage %}
+    {% assign nextPagePath = page.url | replace: pageNumString, nextPageString %}
   {% else %}
-    {% assign nextPagePath = page.url | append: 'page' | append: nextPage %}
+    {% assign nextPagePath = page.url | append: 'page' | append: nextPageString %}
   {% endif %}
 {% endif %}
 
 {% comment %} Get [previousPagePath] {% endcomment %}
 {% if 1 < pageNum %}
   {% assign previousPage = pageNum | minus: 1 %}
+  {% capture previousPageString %}{{ previousPage }}{% endcapture %}
+  <!-- previousPageString: {{ previousPageString }} -->
   {% if previousPage != 1 %}
-    {% assign previousPagePath = page.url | replace: pageNum, previousPage %}
+    {% assign previousPagePath = page.url | replace: pageNumString, previousPageString %}
   {% else %}
     {% assign previousPagePath = page.url | split: '/' | pop | join: '/' %}
   {% endif %}
