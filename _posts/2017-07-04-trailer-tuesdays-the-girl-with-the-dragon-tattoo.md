@@ -28,8 +28,6 @@ Turn on your best speakers (you know, the ones with the bass) and watch this on 
 
 <br>
 
-<!-- Now, remember how to inhale, and take your first breath in roughly 3 minutes (after you're done watching the trailer for the second time). -->
-
 I was fortunate enough to get blindsided by this trailer at a movie theater. Today, I have no idea what film I was watching because all I remember from that event was this trailer. Watching the _Girl with the Dragon Tattoo_ trailer in the theater is so far my favorite trailer-watching experience ever. It was awesome!
 
 Instead of using exposition, the trailer effectively sets up intrigue using music and visual storytelling. By the end of the trailer, I know there's a sort of investigation going on, a girl is involved, murder is most likely the crime, and _Daniel Craig_ has figured something out. Oh, and I also know this is a going to be a dark, twisted movie. The quick edits in time with the _Led Zepplin_ _Immigrant Song_ cover set up this harsh frenetic tone perfectly. And shout out to the unique font for doing this as well; trailer fonts sometimes go unappreciated, and this font is an impressive one.
