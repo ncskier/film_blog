@@ -11,8 +11,6 @@ tags: # [thoughts/trailers/wows]
   - movie
 
 # (required) [image] preview type
-# imageSrc: "http://2.bp.blogspot.com/-DExsqRUvnO8/T41yitOs2MI/AAAAAAAAALc/KHqMofpaw4I/s1600/the+girl+dragon+tattoo+-+vanger+house.png"
-# imageSrc: "/assets/images/posts/the-girl-with-the-dragon-tattoo-vanger-house.jpg"
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjkxNTg5OTU2M15BMl5BanBnXkFtZTcwODI0NjU3Mg@@._V1_SX1520_CR0,0,1520,999_AL_.jpg"
 imageAlt: "A Serious Man"
 # (optional)
