@@ -8,7 +8,7 @@ layout: default
 
   {{ content }}
 
-  {% include post-list.html previewType='image' %}
+  {% include home-list.html per_page=5 %}
 
   {% comment %}
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>

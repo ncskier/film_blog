@@ -6,13 +6,10 @@ Parameters:
   - previousPagePath: url of previous page
 {% endcomment %}
 
-<!-- include.nextPagePath: {{ include.nextPagePath }} -->
-<!-- include.previousPagePath: {{ include.previousPagePath }} -->
-
 <div class="pagination">
 
   {% if include.previousPagePath %}
-    <a href="{{ include.previousPagePath }}" class="previous">Previous</a>
+    <a href="{{ include.previousPagePath | absolute_url }}" class="previous">Previous</a>
   {% else %}
     <span class="previous disabled-link">Previous</span>
   {% endif %}
@@ -20,7 +17,7 @@ Parameters:
   <span class="page-number ">Page: {{ include.pageNum }} of {{ include.totalPages }}</span>
 
   {% if include.nextPagePath %}
-    <a href="{{ include.nextPagePath }}" class="next">Next</a>
+    <a href="{{ include.nextPagePath | absolute_url }}" class="next">Next</a>
   {% else %}
     <span class="next disabled-link">Next</span>
   {% endif %}
