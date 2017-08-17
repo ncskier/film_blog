@@ -33,6 +33,6 @@ exclude:
   - Gemfile.lock
 
 # Automatically Generate Sitemap (sitemap.xml)
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
