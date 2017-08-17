@@ -1,6 +1,6 @@
 # film_website
 
-<a href="https://ncskier.github.io/film_blog/">https://ncskier.github.io/film_blog/</a>
+<a href="https://biasedmoviethoughts.com/">https://biasedmoviethoughts.com/</a>
 
 ## Edit the Repo
 * `commit` local changes
