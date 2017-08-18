@@ -32,5 +32,3 @@ https://images-na.ssl-images-amazon.com/images/M/MV5BNjkxNTg5OTU2M15BMl5BanBnXkF
 
 https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMTM2ODAzM15BMl5BanBnXkFtZTcwMzc4MDU4Mg@@._V1_SY1000_CR0,0,1508,1000_AL_.jpg
 {% endcomment %}
-
-{% include trailer-tuesdays-signoff.html %}

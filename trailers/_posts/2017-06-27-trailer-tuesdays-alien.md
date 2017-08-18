@@ -24,8 +24,6 @@ It's old, but it's so awesome! If you haven't seen it yet, here's the _Alien_ tr
 
 The film was released in 1979 and yet the trailer barely feels outdated (besides the not-so-great image and sound quality). I think this is an outstanding trailer and it is one of my favorite trailers to date. The _Alien_ trailer was really my only choice to kick off the _Trailer Tuesday_ posts.
 
-{% include trailer-tuesdays-signoff.html %}
-
 {% comment %} possible posters
 https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NjEwMzg0OF5BMl5BanBnXkFtZTcwNjM2NTUyMw@@._V1_SY1000_CR0,0,734,1000_AL_.jpg
 
