@@ -1,4 +1,4 @@
-# film_website
+# film_blog
 
 <a href="https://biasedmoviethoughts.com/">https://biasedmoviethoughts.com/</a>
 
