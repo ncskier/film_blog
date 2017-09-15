@@ -1,6 +1,8 @@
-# film_blog
+# Biased Movie Thoughts
 
-<a href="https://biasedmoviethoughts.com/">https://biasedmoviethoughts.com/</a>
+<h2><a href="https://biasedmoviethoughts.com/">https://biasedmoviethoughts.com/</a></h2>
+<br>
+<img alt="biased movie thoughts logo" src="https://dmn0f9g56xzxa.cloudfront.net/logo/movie-thoughts-logo-animation.gif" width="200px">
 
 ## Edit the Repo
 * `commit` local changes
