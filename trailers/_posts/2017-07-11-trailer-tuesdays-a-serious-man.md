@@ -12,7 +12,7 @@ tags: # [thoughts/trailers/wows]
 
 # (required) [image] preview type
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjkxNTg5OTU2M15BMl5BanBnXkFtZTcwODI0NjU3Mg@@._V1_SX1520_CR0,0,1520,999_AL_.jpg"
-imageAlt: "A Serious Man"
+imageAlt: "A Serious Man Thumbnail"
 # (optional)
 previewAlign: top # [bottom/middle/top]
 

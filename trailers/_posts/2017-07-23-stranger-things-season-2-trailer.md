@@ -10,7 +10,7 @@ tags:
   - tv
 previewType: image
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzIzMjQ5NDc3OV5BMl5BanBnXkFtZTgwMjcwNjU0MTI@._V1_.jpg"
-imageAlt: "Stranger Things | Season 2 Poster"
+imageAlt: "Stranger Things | Season 2 Thumbnail"
 previewAlign: top
 youtubeId: "vgS2L7WPIO4"
 ---

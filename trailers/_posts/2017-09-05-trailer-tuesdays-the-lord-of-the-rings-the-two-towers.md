@@ -12,7 +12,7 @@ tags: # [thoughts/trailers/wows]
 
 # (required) [image] preview type
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNDMzNjg5Nl5BMl5BanBnXkFtZTcwMTI3NDk2Mw@@._V1_SX1777_CR0,0,1777,767_AL_.jpg"
-imageAlt: "The Lord of the Rings: The Two Towers"
+imageAlt: "The Lord of the Rings: The Two Towers Thumbnail"
 # (optional)
 previewAlign: middle # [bottom/middle/top]
 

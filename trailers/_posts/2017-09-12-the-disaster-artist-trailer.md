@@ -11,7 +11,7 @@ tags: # [thoughts/trailers/wows]
 
 # (required) [image] preview type
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4N2UwMzAtY2UwMC00Y2ZmLThlNTMtNzQwOGUyYjlmMTAxXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY1000_CR0,0,1749,1000_AL_.jpg"
-imageAlt: "The Disaster Artist"
+imageAlt: "The Disaster Artist Thumbnail"
 # (optional)
 previewAlign: middle # [bottom/middle/top]
 

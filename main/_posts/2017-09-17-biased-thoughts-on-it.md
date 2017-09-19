@@ -10,7 +10,7 @@ tags: # [thoughts/trailers/wows]
 
 # (required) [image] preview type
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BMzkwNDk5ODI0MV5BMl5BanBnXkFtZTgwMTE5NTkxMzI@._V1_SX1777_CR0,0,1777,738_AL_.jpg"
-imageAlt: "It Poster"
+imageAlt: "It Thumbnail"
 # (optional)
 previewAlign: middle # [bottom/middle/top]
 

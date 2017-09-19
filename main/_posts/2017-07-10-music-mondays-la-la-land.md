@@ -11,7 +11,7 @@ tags: # [thoughts/trailers/wows]
 # (required) [image] preview type
 # imageSrc: "http://www.babydriver-movie.com/images/noSupportScreen/no_support_bg.jpg"
 imageSrc: "https://adrianvstheworld.files.wordpress.com/2017/04/ltldxs1.png?w=820&h=312&crop=1"
-imageAlt: "La La Land Poster"
+imageAlt: "La La Land Thumbnail"
 youtubeId: "-XKolyCfMdk?start=205&end=247&version=3"
 # (optional)
 previewAlign: middle # [bottom/middle/top]

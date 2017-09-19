@@ -8,7 +8,7 @@ tags:
   - movie
   - quick thoughts
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3ZTBiZmUtNjI2NS00NjlkLWE4NzctOGU4Zjg1NDM0YzU0XkEyXkFqcGdeQXVyNzU1NTU2NjQ@._V1_.jpg"
-imageAlt: "King Arthur Poster"
+imageAlt: "King Arthur Thumbnail"
 previewAlign: top
 ---
 

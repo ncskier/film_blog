@@ -15,7 +15,7 @@ previewType: image
 imageSrc2: "https://dmn0f9g56xzxa.cloudfront.net/post-images/koe-no-katachi-poster.jpg"
 imageAlt2: "Koe No Katachi Poster"
 imageSrc: "https://dmn0f9g56xzxa.cloudfront.net/post-images/koe-no-katachi-anime-art-day-out-summer.jpg"
-imageAlt: "Koe No Katachi Museum Scene"
+imageAlt: "Koe No Katachi Thumbnail"
 previewAlign: "middle"
 ---
 {% include centered-image.html alt=page.imageAlt2 src=page.imageSrc2 %}

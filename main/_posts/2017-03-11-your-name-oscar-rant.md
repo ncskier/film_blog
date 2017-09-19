@@ -13,7 +13,7 @@ previewType: image
 # imageSrc: "http://yournamefilm.com.au/images/still_01.jpg"
 # imageSrc: /assets/images/posts/your-name-poster.jpg
 imageSrc: "https://dmn0f9g56xzxa.cloudfront.net/post-images/your-name-poster.jpg"
-imageAlt: "Your Name Poster"
+imageAlt: "Your Name Thumbnail"
 previewAlign: "bottom"
 ---
 

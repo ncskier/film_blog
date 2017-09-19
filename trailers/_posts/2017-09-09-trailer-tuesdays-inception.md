@@ -12,7 +12,7 @@ tags: # [thoughts/trailers/wows]
 
 # (required) [image] preview type
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ5NzI5ODUyOV5BMl5BanBnXkFtZTcwMzU0OTk1Mw@@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
-imageAlt: "Inception"
+imageAlt: "Inception Thumbnail"
 # (optional)
 previewAlign: middle # [bottom/middle/top]
 

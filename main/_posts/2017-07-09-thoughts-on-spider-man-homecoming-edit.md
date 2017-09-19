@@ -11,7 +11,7 @@ tags: # [thoughts/trailers/wows]
 # (required) [image] preview type
 # imageSrc: "http://www.babydriver-movie.com/images/noSupportScreen/no_support_bg.jpg"
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BYjIyOTVmOTktOTkyMi00MjVhLTg2YmUtYjZjNGRjYTRiNmZmXkEyXkFqcGdeQXVyNjIzMDA2NjE@._V1_.jpg"
-imageAlt: "Spider-Man: Homecoming Poster"
+imageAlt: "Spider-Man: Homecoming Thumbnail"
 # (optional)
 previewAlign: middle # [bottom/middle/top]
 

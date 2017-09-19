@@ -12,7 +12,7 @@ tags: # [thoughts/trailers/wows]
 
 # (required) [image] preview type
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NjQ5NzUwN15BMl5BanBnXkFtZTcwNjY3MTA2OA@@._V1_SY1000_CR0,0,1505,1000_AL_.jpg"
-imageAlt: "Cloud Atlas"
+imageAlt: "Cloud Atlas Thumbnail"
 # (optional)
 previewAlign: middle # [bottom/middle/top]
 

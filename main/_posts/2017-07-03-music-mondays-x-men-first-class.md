@@ -10,7 +10,7 @@ tags:
 previewType: image
 # imageSrc: "/assets/images/posts/magneto.jpg"
 imageSrc: "https://dmn0f9g56xzxa.cloudfront.net/post-images/magneto.jpg"
-imageAlt: "X-Men: First Class Magneto"
+imageAlt: "X-Men: First Class Thumbnail"
 previewAlign: middle
 # youtubeId: "WN0l6F96_YA"
 youtubeId: "LHxGuYITd-k"

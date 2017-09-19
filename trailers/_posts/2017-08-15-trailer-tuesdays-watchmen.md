@@ -12,7 +12,7 @@ tags: # [thoughts/trailers/wows]
 
 # (required) [image] preview type
 imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MzI3OTU4Ml5BMl5BanBnXkFtZTcwNzE3MzIzMg@@._V1_.jpg"
-imageAlt: "Watchmen"
+imageAlt: "Watchmen Thumbnail"
 # (optional)
 previewAlign: middle # [bottom/middle/top]
 
