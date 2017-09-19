@@ -20,9 +20,9 @@ previewAlign: middle # [bottom/middle/top]
 
 {% include centered-image.html src=page.imageSrc alt=page.imageAlt %}
 
-Notice: I am not a horror guy, but I heard good things about It so, I went to check it out in the theater (along with my girlfriend for moral support). 
+Notice: I am not a horror guy, but I heard good things about _It_, so I went to check it out in the theater (along with my girlfriend for moral support).
 
-I have pretty mixed feelings about It; I enjoyed the film but thought it had a lot more potential than paid off. I really liked the core cast of kids; however, the horror aspect of the film was lacking (this coming from someone who gets scared walking home at night).
+I have pretty mixed feelings about _It_; I enjoyed the film but thought it had a lot more potential than paid off. I really liked the core cast of kids; however, the horror aspect of the film was lacking (this coming from someone who gets scared walking home at night).
 
 Most of the horror scenes felt highly conventional – like they were just going through the motions. This feeling was probably because the scares were mostly reliant on jump-scares. By the end of the film, I was almost numb to the jump-scares because there were so many of them and I could see them coming – that being said, there was one amazing jump-scare near the end of the film.
 
@@ -36,7 +36,7 @@ I'm not sure how spoilery this is, but the monster apparently feeds off the fear
 
 -- End Spoilers --
 
-In the end, I really found myself wanting It to explore the horrors of real life and how these tie into the horror created by the monster. The film was primed to succeed at this with an excellent cast but ultimately failed because it relied on jump-scares, underutilized scare-scenes, and didn't spend enough time developing its characters.
+In the end, I really found myself wanting _It_ to explore the horrors of real life and how these tie into the horror created by the monster. The film was primed to succeed at this with an excellent cast but ultimately failed because it relied on jump-scares, underutilized scare-scenes, and didn't spend enough time developing its characters.
 
 {% comment %}
 https://images-na.ssl-images-amazon.com/images/M/MV5BMzkwNDk5ODI0MV5BMl5BanBnXkFtZTgwMTE5NTkxMzI@._V1_SX1777_CR0,0,1777,738_AL_.jpg
