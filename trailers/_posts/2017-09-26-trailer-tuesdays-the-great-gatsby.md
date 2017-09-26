@@ -25,7 +25,7 @@ youtubeId: "h7AFnJbETLw"
 
 <br>
 
-I really love the build up of music in this trailer. Admittedly, I am quite the sucker for trailers cut in time to music. Also, the third trailer (below) is pretty awesome as well!
+I really love the build up of music in this trailer. Admittedly, I am quite the sucker for trailers cut in time to music. Also, the trailer 3 (below) is pretty awesome as well!
 
 <br>
 
@@ -34,5 +34,7 @@ I really love the build up of music in this trailer. Admittedly, I am quite the 
 <br>
 
 Oh, and this trailer (below) is also pretty great! I probably wouldn't have finished reading _The Great Gatsby_ for school if it wasn't for this one.
+
+<br>
 
 {% include youtubePlayer.html id="4w8lohkQtbY" %}
