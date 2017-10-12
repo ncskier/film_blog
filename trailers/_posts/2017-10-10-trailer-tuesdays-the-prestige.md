@@ -18,10 +18,11 @@ previewAlign: bottom # [bottom/middle/top]
 
 # (required) [trailer] preview type
 youtubeId: "o4gHCmTQDVI"
-imdbId: "vi2885334553"
 ---
 
-{% include imdbPlayer.html id=page.imdbId %}
+I could not find a version of this trailer on YouTube with good video/sound quality. So, here's a better version on IMDB: <a target="_blank" href="http://www.imdb.com/title/tt0482571/videoplayer/vi2885334553?ref_=tt_ov_vi">http://www.imdb.com/title/tt0482571/videoplayer/vi2885334553?ref_=tt_ov_vi</a>
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 <br>
 
