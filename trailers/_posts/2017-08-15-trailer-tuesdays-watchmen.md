@@ -24,3 +24,7 @@ youtubeId: "NUjMO_k9IF8"
 {% include youtubePlayer.html id=page.youtubeId %}
 
 <br>
+
+This second _Watchmen_ trailer's also pretty great!
+
+{% include youtubePlayer.html id="wglmbroElU0" %}
