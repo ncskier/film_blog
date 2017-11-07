@@ -24,4 +24,4 @@ youtubeId: "9PSXjr1gbjc"
 
 <br>
 
-Although _The Hobbit: An Unexpected Journey_ left quite a bit to be desired, at least I still have this trailer to admire.
+Although _The Hobbit: An Unexpected Journey_ left quite a bit to be desired, at least it produced this admirable trailer.
