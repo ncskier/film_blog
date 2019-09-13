@@ -7,9 +7,9 @@ categories:
 tags:
   - movie
   - quick thoughts
-imageSrc: "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3ZTBiZmUtNjI2NS00NjlkLWE4NzctOGU4Zjg1NDM0YzU0XkEyXkFqcGdeQXVyNzU1NTU2NjQ@._V1_.jpg"
+imageSrc: "https://m.media-amazon.com/images/M/MV5BZGY2NDlhNzgtNjA3Zi00OWIxLTk4ODItYTYyZDczNDJiZmFiXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg"
 imageAlt: "King Arthur Thumbnail"
-previewAlign: top
+previewAlign: middle
 ---
 
 {% include centered-image.html alt=page.imageAlt src=page.imageSrc %}
