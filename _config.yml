@@ -35,4 +35,4 @@ exclude:
 # Automatically Generate Sitemap (sitemap.xml)
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
+  # - jekyll-paginate

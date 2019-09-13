@@ -3,3 +3,6 @@ default:
 
 drafts:
 	bundle exec jekyll serve --drafts
+
+update:
+	bundle update
