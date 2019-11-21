@@ -10,15 +10,14 @@ tags:
   - biased thoughts
 previewType: image
 
-imageSrc: "https://i.ytimg.com/vi/6N0_Fjli89Q/maxresdefault.jpg"
+imageSrc: "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjUwNV5BMl5BanBnXkFtZTgwMzE1MDc2NTM@._V1_SX1777_CR0,0,1777,743_AL_.jpg"
 imageAlt: "Hiccup and Toothless"
 previewAlign: "middle"
 
-imageSrc2: https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/drago_bewilder_gal33-e1550781088465-700x357.jpg
-imageAlt: "HTTYD2 villains"
+imageSrc2: "https://m.media-amazon.com/images/M/MV5BMjA3NDU2MDQ1Ml5BMl5BanBnXkFtZTgwMjE1MDc2NTM@._V1_SX1777_CR0,0,1777,749_AL_.jpg"
+imageAlt2: "HTTYD2 villain"
 ---
 {% include centered-image.html src=page.imageSrc alt=page.imageAlt %}
-
 
 Ok, let’s bounce around between a number of different thoughts here. First off, I adore *How to Train Your Dragon*. And when I say adore, I mean that I once spent a full week watching the first movie every night, and every single time it made me smile and laugh and cry and just feel so many things. The first movie is without a doubt my desert island movie, the one movie I could rewatch for the rest of my life and all that nonsense. Yet as much as I love the first movie to no end, I have only ever seen the second one once. Just once. It was good that one time I saw it, for sure. It still had the same outstanding music and breathtakingly beautiful moments, and it even added some adorable interactions between Hiccup and Astrid. Yet I still only saw it once (even if I rewatched the Jonsi flying scene on youtube an embarrassing number of times). Then sure enough, the third movie came out and largely maintained the same mood and atmosphere as the second. Sure its ending left me bawling my eyes out, but up until that point I had felt a great deal of frustration with the film.
 
