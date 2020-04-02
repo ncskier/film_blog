@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\"Inside Out\", \"The First Law Trilogy\", and the Two Types of Sadness in Stories"
+title:  "\"Inside Out,\" \"The First Law Trilogy,\" and the Two Types of Sadness in Stories"
 author: Alex Walker
 categories:
   - movies
