@@ -4,13 +4,9 @@
 <ul class="post-list">
   {% for post in site.posts %}
 
-    <li class="fadein">
+    <li>
       {% include post-preview.html post=post type='default' %}
     </li>
 
   {% endfor %}
 </ul>
-
-<script type="text/javascript">
-  {% include js/fade.js %}
-</script>
